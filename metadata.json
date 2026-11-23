@@ -1,0 +1,13 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Id": "top-snap-maximise-toggle",
+    "Name": "Top Snap / Maximise Toggle",
+    "Description": "Meta+Up alternates between top-half snap and maximise",
+    "Version": "2.1",
+    "License": "MIT",
+    "Icon": "preferences-system-windows"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js"
+}
